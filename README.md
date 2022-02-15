@@ -207,6 +207,7 @@ import { RectangleComponent } from './rectangle/rectangle.component';
 export class AppModule { }
 ```
 ## OUTPUT:
+![output](https://github.com/21005688/AngularCalculation/blob/main/gayu1.....PNG?raw=true)
 
 
 
