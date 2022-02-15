@@ -208,7 +208,7 @@ export class AppModule { }
 ```
 ## OUTPUT:
 
-### Home Page:
 
 
 ## Result:
+The webpage for mathematical calculation is created using angular.
